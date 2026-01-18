@@ -8,13 +8,13 @@ This document serves as documentation for the COVID-19 data exploration and dash
 ## Tools and Technologies:
 The project utilized the following tools and technologies:
 
-SQL (Structured Query Language): The primary language used for data manipulation, exploration, and analysis.
+> SQL (Structured Query Language): The primary language used for data manipulation, exploration, and analysis.
 
-SQL Server Management Studio (SSMS): For database creation, data parsing, and initial data exploration.
+> SQL Server Management Studio (SSMS): For database creation, data parsing, and initial data exploration.
 
-Tableau: For creating a variety of visualizations and interactive dashboards based on SQL query findings.
+> Tableau: For creating a variety of visualizations and interactive dashboards based on SQL query findings.
 
-Excel: While not directly used in the project, the dataset obtained from 'Our World in Data' was in Excel format, serving as the initial file type for data exploration.
+> Excel: While not directly used in the project, the dataset obtained from 'Our World in Data' was in Excel format, serving as the initial file type for data exploration.
 
 This combination of tools facilitated a comprehensive approach to the analysis, from database creation and exploration using SQL to visual representation and interactive dashboards in Tableau. The dataset's initial format in Excel underscored the importance of diverse tools in handling and extracting insights from real-world datasets.
 
