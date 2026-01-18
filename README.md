@@ -3,7 +3,7 @@ Amidst the global turmoil caused by the COVID-19 pandemic, the need for accessib
 
 Access the live dashboard on Tableau Public: 'COVID-19 Dashboard'
 
-Project Overview
+#Project Overview
 This document serves as documentation for the COVID-19 data exploration and dashboard project, which aimed to analyze and visualize COVID-19-related data from the Our World in Data repository. The project involved SQL data exploration, table creation, data cleaning, and the development of a comprehensive dashboard using Tableau.
 
 Project Scope
